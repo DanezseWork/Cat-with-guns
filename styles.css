@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+
+div {
+    margin: 10px 10px 10px 10px;
+}
+
+a {
+    color: #007185;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    height: 450px;
+}
+
+.ratings {
+    height: 20px;
+}
+
+.breadcrumbs {
+    color: #565959;
+    font-size: 12px;
+}
+
+.noMargin {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.bold {
+    font-weight: normal bold;
+}
